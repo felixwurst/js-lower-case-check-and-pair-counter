@@ -1,4 +1,4 @@
-# Lower-Case-Check & Pair-Counter in JavaScript
+# Lower Case Check & Pair Counter in JavaScript
 
 ### Exercise:
 
